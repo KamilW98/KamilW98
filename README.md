@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kamil Wiśniewski
+- 👋 Hi, I’m Kamil 
 - 👀 I’m interested in Data Analyst and Power BI
 - 🌱 I’m currently learning SQL, Power BI, DWH, ETL process
 - 📫 How to reach me kwisniewski98@outlook.com
